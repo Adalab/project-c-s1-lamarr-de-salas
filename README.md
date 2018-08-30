@@ -2,4 +2,4 @@
 Primer Proyecto Adalab equipo Lamarr de salás
 
 
-Web grupal - presentación del equipo
+Web colaborativa - Web con la información social de todos los miembros del equipo.
